@@ -1,2 +1,2 @@
 print("new project")
-print("nihao")
+print(1112)
